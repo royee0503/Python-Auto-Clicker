@@ -23,6 +23,10 @@ lib64/
 parts/
 sdist/
 var/
+vscode
+vscode/
+.vscode
+.vscode/
 wheels/
 share/python-wheels/
 *.egg-info/
