@@ -1,1 +1,5 @@
-# Python-Auto-Clicker
+# Python 自製自動連點器
+
+## 開發動機
+
+## 
